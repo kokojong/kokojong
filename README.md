@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![kokojong's github stats](https://github-readme-stats.vercel.app/api?username=본인ID&show_icons=true)
+![kokojong's github stats](https://github-readme-stats.vercel.app/api?username=kokojong&show_icons=true)
 [![kokojong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kokojong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kokojong)
