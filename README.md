@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## My Projects
-
+- [새싹 프렌즈](https://github.com/kokojong/SeSAC_Project/tree/master/SeSAC_Friends)
 - [새싹 농장](https://github.com/kokojong/SeSAC_Project/tree/master/SeSAC_week14_SeSACFarm)
 - [모의로또 - 모또](https://github.com/kokojong/SeSAC_Motto)
 
@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 
 ![kokojong's github stats](https://github-readme-stats.vercel.app/api?username=kokojong&show_icons=true)
 
-[![kokojong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kokojong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kokojong)
+<!-- [![kokojong's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kokojong&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kokojong)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kokojong)](https://solved.ac/kokojong)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=kokojong)](https://solved.ac/kokojong) -->
