@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## My Projects
 
-- [새싹 프렌즈](https://github.com/kokojong/SeSAC_Project/tree/master/SeSAC_week14_SeSACFarm)
+- [새싹 농장](https://github.com/kokojong/SeSAC_Project/tree/master/SeSAC_week14_SeSACFarm)
 - [모의로또 - 모또](https://github.com/kokojong/SeSAC_Motto)
 
 
