@@ -18,13 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My Projects
-- [새싹 프렌즈](https://github.com/kokojong/SeSAC_Project/tree/master/SeSAC_Friends)
-- [새싹 농장](https://github.com/kokojong/SeSAC_Project/tree/master/SeSAC_week14_SeSACFarm)
-- [모의로또 - 모또](https://github.com/kokojong/SeSAC_Motto)
-
-
-
 </br>
 
 ![kokojong's github stats](https://github-readme-stats.vercel.app/api?username=kokojong&show_icons=true)
